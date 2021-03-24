@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "acJlKs+JMu/bk32Upt0damKKtRdHRQwc/P43xHKJ1hQyAt17QHBQclZUZNWksVFyKKZqZIbEn3kpMmkRIegw5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Kodlar\\C#\\Shool Photo\\Shool Photo\\School Photo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\bouncycastle\\1.8.3.1\\bouncycastle.1.8.3.1.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\mysql.data\\8.0.17\\mysql.data.8.0.17.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\ssh.net\\2016.1.0\\ssh.net.2016.1.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.data.sqlite\\1.0.111\\system.data.sqlite.1.0.111.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.data.sqlite.core\\1.0.111\\system.data.sqlite.core.1.0.111.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.data.sqlite.ef6\\1.0.111\\system.data.sqlite.ef6.1.0.111.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.data.sqlite.linq\\1.0.111\\system.data.sqlite.linq.1.0.111.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.reflection.metadata\\1.7.0\\system.reflection.metadata.1.7.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
